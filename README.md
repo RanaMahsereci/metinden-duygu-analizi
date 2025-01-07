@@ -1,2 +1,2 @@
 # metinden-duygu-analizi
-metinden duygu analizi
+arapça metinden duygu analizi
